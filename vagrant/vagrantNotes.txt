@@ -1,2 +1,5 @@
 
 download from vagrantup.com
+instll vagrant on windows 
+
+vagrant status 
