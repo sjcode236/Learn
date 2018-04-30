@@ -1,5 +1,6 @@
 
 download from vagrantup.com
-instll vagrant on windows 
+%%%instll vagrant on windows 
+&&dsfsdf 
 
 vagrant status 
