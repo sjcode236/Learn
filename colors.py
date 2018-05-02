@@ -43,5 +43,5 @@ $$$test test
 \ test test
 /test test
 ///test test
-@this  /test/  test for
+@this  /test @  test for
 
