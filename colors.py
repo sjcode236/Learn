@@ -43,4 +43,5 @@ $$$test test
 \ test test
 /test test
 ///test test
+this is /test  test for
 
