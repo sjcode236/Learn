@@ -4,6 +4,8 @@ This is word colors  sample of .py file
 @ to change color of line
 \========== testing 
 ==========\ testing 
+====> test 
+===>  test
 ` testing
 ```test test 
 ``` test test
