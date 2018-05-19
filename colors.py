@@ -5,6 +5,9 @@ This is word colors  sample of .py file
 \========== testing 
 ==========\ testing 
 ===>test 
+THIS THIS THIS Is TEsT 
+36.5 2this THIS Is TesT
+@THIS THIS THIS Is TEsT 
 ` testing
 ```test test 
 ``` test test
