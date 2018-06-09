@@ -15,8 +15,14 @@ _**THis is Bold Italic**_  _** is for bold italic
 ## heading2  ##
 ### head3   ###
 
+~~strike through~~   ~~  
+>  this angular
+-----
+>>  this is doouble angular
+******
+======
++++++++++
 
-===
 
 
  
