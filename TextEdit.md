@@ -11,7 +11,10 @@ __double underscore for bold__  __ is for bold
 
 _**THis is Bold Italic**_  _** is for bold italic
 
-# head1
-## heading2
+# head1  #
+## heading2  ##
+### head3   ###
+##head2
+
 
  
