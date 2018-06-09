@@ -20,6 +20,11 @@ _**THis is Bold Italic**_  _** is for bold italic
 -----
 >>  this is doouble angular
 ******
+
+`this is doouble angular`  this is with `  tick
+
+
+
 ======
 +++++++++
 
