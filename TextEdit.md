@@ -10,9 +10,9 @@ http://linux236.blogspot.com/2017/01/rhcsa-training.html
 __double underscore for bold__  __ is for bold   
 _**THis is Bold Italic**_  _** is for bold italic   
 ~~strike through~~   ~~  
->  this angular 
+>  this angular  >
 -----
->>  this is doouble angular
+>>  this is doouble angular >>
 ******
 
 `this is inside tik   symbol`  this is with `  tik
