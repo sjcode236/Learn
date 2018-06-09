@@ -16,17 +16,20 @@ _**THis is Bold Italic**_  _** is for bold italic
 ### head3   ###
 
 ~~strike through~~   ~~  
->  this angular
+>  this angular 
 -----
 >>  this is doouble angular
 ******
 
 `this is doouble angular`  this is with `  tick
 
+Below is  a list 
+- item1
+- item2
+- item3
 
 
-======
-+++++++++
+
 
 
 
