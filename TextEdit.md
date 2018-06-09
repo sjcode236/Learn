@@ -24,9 +24,9 @@ _**THis is Bold Italic**_  _** is for bold italic
 `this is doouble angular`  this is with `  tick
 
 Below is  a list 
--item1
--item2
--item3
+- item1
+- item2
+-  item3
 
 
 
