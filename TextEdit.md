@@ -1,5 +1,5 @@
 
-
+This is word colors  sample of .md file
 here is link  
 https://github.com/sjcode236/puppet/blob/master/README.md  
 another link  
