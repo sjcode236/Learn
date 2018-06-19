@@ -14,14 +14,17 @@ _**THis is Bold Italic**_  _** is for bold italic
 -----
 >>  this is doouble angular >>
 ******
-
+to make lines  ****  or ----
 `this is inside tik   symbol`  this is with `  tik
 
 Below is  a list 
 - item1
 - item2
 -  item3
-
+single -   is for list 
+one #  for head1
+two #  for head2
+3 # for head3
 # head1  #
 ## heading2  ##
 ### head3   ###
