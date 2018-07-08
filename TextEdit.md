@@ -1,4 +1,8 @@
 
+
+Basic writing and formatting syntax    
+https://help.github.com/articles/basic-writing-and-formatting-syntax/   
+
 This is word colors  sample of .md file
 here is link  
 https://github.com/sjcode236/puppet/blob/master/README.md  
