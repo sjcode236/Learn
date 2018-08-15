@@ -6,6 +6,7 @@ This is word colors  sample of .spec  file
 \========== testing 
 ==========\ testing 
 ===>test 
+>>>>>>
 CAPITAL LETTER WORDS GET BLUE COLOR THIS THIS THIS Is TEsT 
 36.5 2this THIS Is TesT
 @THIS THIS THIS Is TEsT 
