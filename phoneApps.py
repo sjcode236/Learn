@@ -52,6 +52,7 @@ atom.io
 
 ===for ssh  from windows 
 putty
+multiputty
 securecrt
 cigwin 
 camder
