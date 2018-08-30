@@ -51,9 +51,10 @@ notepad++
 atom.io
 
 ===for ssh  from windows 
+securecrt
 putty
 multiputty
-securecrt
+superputty
 cigwin 
 camder
 git
