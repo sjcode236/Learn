@@ -1,10 +1,11 @@
 
 
-
-========================================================
+The ultimate guide to Windows 10 keyboard shortcuts
+https://www.windowscentral.com/best-windows-10-keyboard-shortcuts     
+========================================================  
 Keyboard shortcut	Action
 Windows key	Open or close Start Menu.
-Windows key + A	Open Action center.
+Windows key + A	Open Action center. 
 Windows key + C	Open Cortana in listening mode.
 Windows key + D	Display and hide the desktop.
 Windows key + E	Open File Explorer.
