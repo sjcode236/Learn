@@ -1,7 +1,7 @@
 
 
 
-
+========================================================
 Keyboard shortcut	Action
 Windows key	Open or close Start Menu.
 Windows key + A	Open Action center.
