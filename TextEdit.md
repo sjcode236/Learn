@@ -3,8 +3,8 @@
 Basic writing and formatting syntax    
 https://help.github.com/articles/basic-writing-and-formatting-syntax/   
 
-This is word colors  sample of .md file
-here is link  
+This pages is about  word colors  sample of .md file
+here is a link  
 https://github.com/sjcode236/puppet/blob/master/README.md  
 another link  
 http://linux236.blogspot.com/2017/01/rhcsa-training.html
