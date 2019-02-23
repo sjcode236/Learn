@@ -1,13 +1,16 @@
-
+This pages is about  word colors  sample of .md file     
 
 Basic writing and formatting syntax    
 https://help.github.com/articles/basic-writing-and-formatting-syntax/   
-
-This pages is about  word colors  sample of .md file
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax  
+  
 here is a link  
 https://github.com/sjcode236/puppet/blob/master/README.md  
 another link  
 http://linux236.blogspot.com/2017/01/rhcsa-training.html
+another link  
+http://agea.github.io/tutorial.md/    
+
 
 *italic*  *  is for italic    
 **double star for bold**  **  for bold   
