@@ -71,6 +71,24 @@ winscp
 hummingbird exceed
 
 
+======Phone Apps ============================     
+
+
+
+
+
+====shop apps 
+
+wikibuy 
+valpak
+livingsocial
+favado = Favado Grocery App    
+shopular = Shopular – Shopping & Deals , Coupons, Savings     
+
+
+
+
+
 
 
 
