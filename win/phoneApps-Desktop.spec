@@ -84,7 +84,18 @@ valpak
 livingsocial
 favado = Favado Grocery App    
 shopular = Shopular – Shopping & Deals , Coupons, Savings     
-
+slickdeals 
+retailmenot
+wish
+flipp
+dealsplus
+coupons 
+  
+  
+  
+online listing 
+craigslist 
+offerup   
 
 
 
