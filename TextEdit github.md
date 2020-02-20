@@ -1,4 +1,8 @@
 This pages is about  word colors  sample of .md file     
+https://agea.github.io/tutorial.md/    
+https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax    
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet     
+
 
 Basic writing and formatting syntax    
 https://help.github.com/articles/basic-writing-and-formatting-syntax/   
