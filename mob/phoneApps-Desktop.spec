@@ -100,7 +100,13 @@ craigslist
 offerup   
 
 
-
+==== finance apps 
+  
+Robinhood 
+Marketbeat 
+MATADOR
+vectorvest
+  
 
 
 
