@@ -101,11 +101,24 @@ offerup
 
 
 ==== finance apps 
-  
-Robinhood 
-Marketbeat 
+robinhood 
+marketbeat 
 MATADOR
 vectorvest
+myWallst  --> learning app 
+  
+
+seeking alpha
+scutify Sentiment
+scutify 
+stocktwits
+BofA Insight  
+bloomberg
+cnbc
+yahoo finace 
+stockMaster
+cnn money 
+Motely fool
   
 
 
