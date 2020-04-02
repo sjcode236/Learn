@@ -108,6 +108,7 @@ vectorvest
 myWallst  --> learning app 
   
 
+webull (app and web)  --> see order flow 5 days, Trade stokcs & options   
 seeking alpha
 scutify Sentiment
 scutify 
