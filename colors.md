@@ -17,3 +17,11 @@ If not "take exam in Se
 ⬛ black square ◼️ ▪️ ; 🏴 black flag ; ✒️ black_nib ⚫ black circle   
 🎱 8ball 🏀 basketball 🔮crystalball    
 
+
+🗳️ ballot_box 🧃beverage_box 🗃️ card_file_box  📥inbox_tray 📤outbox   
+📫mailbox  
+
+🟦 square 🟩 🟥 ⬜ 🟪  
+💠diamond  🔷 blue diamond 🔹smnall diamond ♦️ 🔶  
+   
+🌐 globe   🗺️ world map    
