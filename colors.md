@@ -24,4 +24,14 @@ If not "take exam in Se
 🟦 square 🟩 🟥 ⬜ 🟪  
 💠diamond  🔷 blue diamond 🔹smnall diamond ♦️ 🔶  
    
-🌐 globe   🗺️ world map    
+🌐 globe   🗺️ world map     
+
+📓 blackbook  📘 blue_book 📗 green_book 📙 orange_book    
+
+
+
+
+
+
+
+
