@@ -27,7 +27,7 @@ If not "take exam in Se
 🌐 globe   🗺️ world map     
 
 📓 blackbook  📘 blue_book 📗 green_book 📙 orange_book    
-fire   
+
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥  
 📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗   
 
