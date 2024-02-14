@@ -1,7 +1,8 @@
 
 https://docs.google.com/document/d/1e2cHK2UuQi9S4XR7rrKPHvxRxPACTsIMpOrWVK4dxz0/edit    
 
-
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗📗
 
 ===photo , scan ,  editing  
 Lightroom CC
