@@ -2,6 +2,7 @@
 📔📔 📕📕 📗📗 📘📘 📙📙 📓📓 📒📒  
 💳💳  💵💵 💶💶 💷💷 🚪🚪 ‼️‼️‼️ 🏁🏁 🏳️‍🌈🏳️‍🌈   
 
+=+=text editing section 🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁   
 This pages is about  word colors  sample of .md file     
 https://agea.github.io/tutorial.md/    
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax    
@@ -46,7 +47,7 @@ one # for head1 ,two ## for head2 ,3 ### for head3
 
 
 
-=+=text editing end 🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁   
+=+=text editing end 🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁    
 
 
 
