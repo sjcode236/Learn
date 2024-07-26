@@ -1,3 +1,5 @@
+ This pages is about  word colors  sample of .md file    
+ This is word colors  sample of .md file    
 🔋🔋🔋   📷📷📷  📟📟📟   🎟️🎟️   🎫🎫   
 📔📔 📕📕 📗📗 📘📘 📙📙 📓📓 📒📒  
 💳💳  💵💵 💶💶 💷💷 🚪🚪 ‼️‼️‼️ 🏁🏁 🏳️‍🌈🏳️‍🌈    
@@ -13,7 +15,7 @@ Altkey Codes https://www.rapidtables.com/code/text/alt-codes.html
 
 
 =+=text editing section 🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁   
-This pages is about  word colors  sample of .md file     
+  
 https://agea.github.io/tutorial.md/    
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax    
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet     
